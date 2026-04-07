@@ -8,3 +8,7 @@ outputs/
 .venv/
 venv/
 .env
+.cursor
+.cursorrules
+.vscode
+TASK.txt
