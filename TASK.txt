@@ -1,5 +1,0 @@
-Você deve implementar redes neurais do tipo Multilayer Perceptron (MLP). Ao final, será entregue enviar o link para o repositório para esta atividade juntamente com gráficos mostrando análises de desempenho da rede. Esta atividade servirá para consolidarmos os conhecimentos básicos de redes neurais. Abaixo seguem os requisitos:
-- A MLP deve ser implementada com PyTorch.
-A MLP deve ter como entrada: o número de camadas, o número de neurônios por camada, a taxa de aprendizado, a taxa de momento. a escolha do algoritmo otimizador deve ser uma entrada do usuário também.
-- A escolha dos hiperparâmetros pode ser feita como "tentativa e erro".
-- Avaliar, na medida do possível, o desempenho de sua MLP na base de dados escolhida, baseando-se em metricas, graficos, e mais.
